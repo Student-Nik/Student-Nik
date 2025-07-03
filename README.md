@@ -21,13 +21,27 @@
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)  
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST_API-%230073C2.svg?style=for-the-badge&logo=apache&logoColor=white)  
 ![Microservices](https://img.shields.io/badge/Microservices-%230073C2.svg?style=for-the-badge&logo=docusign&logoColor=white)
+
+### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/H2-004080.svg?style=for-the-badge&logo=h2&logoColor=white)
+
+### 🎨 Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%2300A300.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
 ### 🛠️ Tools & Technologies
 ![Maven](https://img.shields.io/badge/Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
 ![STS](https://img.shields.io/badge/Spring_Tool_Suite-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+## 📜 Certifications:
+- ✅ **Java Full Stack Developer** – Symbiosis Skills and Professional University and Capgemini
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Student-Nik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
