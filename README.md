@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Kute</h1>
 <h3 align="center">Aspiring Java Developer | Backend Enthusiast</h3>
 
-- 🌱 Currently learning **Microservices**  
+- 🌱 Currently learning **React Js**  
 - 📫 Reach me at: **nkute611@gmail.com**  
 - ⚡ Fun fact: I enjoy collaborating in teams to solve real-world problems  
 
@@ -9,7 +9,7 @@
 <p align="left">
 📧 nkute611@gmail.com  
 📷 [Instagram](https://instagram.com/nik_kute99)  
-💼 [LinkedIn](https://linkedin.com/in/Student-Nik)  
+💼 [LinkedIn](www.linkedin.com/in/nikhil-kute-java)  
 </p>
 
 ## 💻 Tech Stack:
