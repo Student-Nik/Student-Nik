@@ -27,6 +27,7 @@
 ### 🛢️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00000F.svg?style=for-the-badge&logo=h2&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-00000F.svg?style=for-the-badge&logo=h2&logoColor=white)
 
 ### 🎨 Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
